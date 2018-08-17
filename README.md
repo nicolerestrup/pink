@@ -28,3 +28,8 @@ while answer != "stop":
 hobbies.remove("stop")
 reply = "Your hobbies are: {}"
 print(reply.format(", ".join(hobbies)))
+```
+
+*This branch (pink) are things that I've learned on Pink Programming - Python Camp*
+
+Click [here](https://www.facebook.com/groups/908912712549809/?ref=bookmarks) to find Pink Programmings' facebook page.
